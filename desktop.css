@@ -1,0 +1,19 @@
+body {
+    background-color: red;
+}
+
+.features {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.feature-container {
+    width: 48%;
+    height: 30%;
+    justify-content: space-evenly;
+}
+
+.contenedor-tarjetas {
+    justify-content: center;
+    min-width: 100%;
+}
